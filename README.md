@@ -10,6 +10,9 @@ https://play.golang.org/p/0OZ7Q_M7tAn
 Day3 Assignment Solution link:
 https://play.golang.org/p/ogatWBpseUA
 
+Day4 Assignment Solution link:
+https://play.golang.org/p/Wj8HXovyvBS
+
 
 
 
